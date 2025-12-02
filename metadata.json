@@ -1,0 +1,5 @@
+{
+  "name": "CN-HPC-Grid-Visualization",
+  "description": "A high-performance interactive 3D particle network visualizing China's Super Computing Power grid. Features 30,000+ GPU-instanced particles, bloom effects, and dynamic topology.",
+  "requestFramePermissions": []
+}
