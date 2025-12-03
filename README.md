@@ -2,8 +2,6 @@
 
 > 一个基于 WebGL 的沉浸式 3D 融媒体新闻网页，通过三维粒子网络拓扑展示中国超级算力的核心调度能力。
 
-![Project Preview](public/img/1.jpg)
-*(注：建议将项目截图重命名为 preview.jpg 并放在 public/img 目录下，或者删除此行)*
 
 ## 🌟 项目亮点 (Features)
 
