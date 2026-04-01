@@ -1,7 +1,7 @@
 # 神威·海洋之光 - 中国算力交互报道 (Interactive News Project)
 
 ### 🚀 项目在线演示 (Live Demo)
-[点击查看部署好的网页](你的Vercel网址粘贴在这里)
+[[点击查看网页](https://assignment-archive.vercel.app/)]
 
 ### 📝 项目简介
 本项目是一个基于 **Vite + React + Tailwind CSS** 开发的交互式新闻信息网页。作品以“中国算力”为主题，探索了 AIGC 在传媒领域的工作流应用。
